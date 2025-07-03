@@ -28,4 +28,4 @@ This project implements a linear regression model to predict house prices using 
 - `actual_vs_predicted.png`: Output plot
 
 ## Author
-*Your Name Here* 
+Lakshit Soni
