@@ -1,6 +1,6 @@
 # House Prices Linear Regression
 
-This project implements a linear regression model to predict house prices using the Ames Housing dataset. The model uses three key features:
+This project implements a linear regression model to predict house prices using the Ames Housing dataset #SkillCraftTechnology. The model uses three key features:
 
 - **GrLivArea**: Above ground living area (square feet)
 - **BedroomAbvGr**: Number of bedrooms above ground
